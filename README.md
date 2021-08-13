@@ -1,10 +1,10 @@
 # Stockbit Logic Test for ReactJS Developer Position
 
-#### Author
+### Author
 * Name: Ahmad Ichsan Baihaqi
 * E-mail: ahmadichsanbaihaqi@gmail.com 
 
-#### Problem
+### Problem
 Anagram adalah istilah dimana suatu string yang jika dibolak balik ordernya maka akan sama, eg.: 'aku' dan 'kua' adalah Anagram, 'aku' dan 'aka' bukan Anagram.
 
 Dibawah ini ada array berisi sederetan Strings:
@@ -22,10 +22,10 @@ Expected Outputs
 ]
 ```
 
-#### Solution
+### Solution
 * Language: Javascript
 
-#### Step by step to run the program
+### Step by step to run the program
 1. git clone or download the zip file
 2. if you choose to download the zip file, once downloaded, extract the zip
 3. open the program folder with your favorite code editor or you can use terminal without open any code editor
